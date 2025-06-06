@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "игра гранди курсовая", "гранди 3курс\игра гранди курсовая.csproj", "{085217B2-8513-465A-8881-1D50055954EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{085217B2-8513-465A-8881-1D50055954EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085217B2-8513-465A-8881-1D50055954EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085217B2-8513-465A-8881-1D50055954EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085217B2-8513-465A-8881-1D50055954EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
